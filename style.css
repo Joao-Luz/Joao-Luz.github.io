@@ -1,6 +1,6 @@
 @font-face {
     font-family: upheave;
-    src: url('upheave.otf');
+    src: url('./upheave.otf');
 }
 
 #upheave {
